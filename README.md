@@ -1,4 +1,4 @@
-[:) yippie]([https://www.example.com](https://jasmine-lapierre.github.io/machin1affaire/#/))
+[:) yippie](https://jasmine-lapierre.github.io/machin1affaire/#/)
 
 
 # minou chats
