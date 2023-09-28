@@ -1,4 +1,4 @@
-[:) yippie](https://jasmine-lapierre.github.io/machin1affaire/#/)
+[:) yippie](https://jasmine-lapierre.github.io/presentation_ideation/#/)
 
 
 # minou chats
