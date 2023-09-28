@@ -12,7 +12,13 @@ Le sujet de ma présentation est une salle interactive conçue en collaboration 
 **Intégration Kinect** : Un capteur Kinect monté au plafond suit les positions colorimétriques des lasers (vert, bleu et rouge) et les communique à un ordinateur, créant une interaction inédite entre les visiteurs et les chats.
 
 **Confort** : Des sièges cylindriques équipés de coussins et de grattoirs pour chats ainsi que des poufs moelleux, ressemblant à des lits pour chats, sont dispersés dans la salle.
-![voici ma presentation](assets/ideation_chaises.png)
+
+**Tapis** : Sur le sol, il y aurait un gros tapis de jeu pour enfant. Cela encourage les utilisatuers à courir et jouer comme lorsqu'ils étaient des enfants. Pour les enfants, ça leur permet de se sentir plus à l'aise (Comme les salles de jeux) pour mieux s'amuser!
+Le tapis serait blanc ou beige pâle pour augmenter le contraste avec les lasers
+
+![voici ma presentation](assets/Tapis_jeu_enfant.jpg)
+
+
 
 # Aspect 2 : Informations sur l'adoption de chats et histoires
 
@@ -33,7 +39,7 @@ En résumé, ce projet de salle interactive mêle technologie, narration et exp�
 ![voici ma presentation](assets/ideation_plan.drawio.png)
 
 ## Oops, j'avais pas pensé à ça, la liste
-- pointeur laser trop petit pour être détecté???? aggrandir le pointeur ou en scotcher plusieurs ensemble.
+- pointeur laser trop petit pour être détecté???? aggrandir le pointeur ou en scotcher plusieurs ensemble. S'assurer que la projection du plancher contraste bien avec les pointeurs lasers
 - quoi faire si des enfants ont des chandails bleu vert ou rouge???? peut être baisser la sensibilité des couleurs (il faudrait vraiment que ce soit vert vert là) 
 - Peut-être va voir un problème avec les coordonnées de kinect vers layer dans max (trouver une maniere de le rendre plus ou moins sans bug). Champ de vision déformé??? pas savoir...
 ## Super Sources et références interessantes
