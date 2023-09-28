@@ -20,10 +20,10 @@ Animations projetées : Trois projecteurs au plafond diffusent des animations 2D
 ![voici ma presentation](assets/ideation_projection_murs.png)
 
 Tablette interactive : Au centre de la pièce, un podium renferme une tablette interactive. Les visiteurs peuvent y consulter des descriptions de vrais chats du refuge, chaque description étant accompagnée d'une image.
-![voici ma presentation](aassets/ideation_podium.png)
+![voici ma presentation](assets/ideation_podium.png)
 
 Histoires de chats : Lorsqu'un visiteur touche la description du chat, l'image du chat apparaît sur le mur de devant. Cette image se transforme ensuite en une représentation 2D du chat, accompagnée d'une brève histoire de sa vie, y compris les circonstances de son abandon.
-![voici ma presentation]assets/ideation_photo_2d.png)
+![voici ma presentation](assets/ideation_photo_2d.png)
 
 Expérience sonore : Une narration audio de l'histoire du chat est diffusée à travers plusieurs haut-parleurs répartis dans la salle. Des sons ambiants, tels que des coups de klaxon, des ronronnements et des miaulements, ajoutent à l'immersion.
 
