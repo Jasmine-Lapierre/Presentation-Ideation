@@ -28,6 +28,8 @@ Le sujet de ma présentation est une salle interactive conçue en collaboration 
 **Expérience sonore** : Une narration audio de l'histoire du chat est diffusée à travers plusieurs haut-parleurs répartis dans la salle. Des sons ambiants, tels que des coups de klaxon, des ronronnements et des miaulements, ajoutent à l'immersion.
 
 En résumé, ce projet de salle interactive mêle technologie, narration et expériences sensorielles pour promouvoir l'adoption de chats tout en offrant une expérience divertissante et instructive à nos visiteurs. Il vise à établir un lien unique entre les futurs adoptants et les chats en quête de foyers aimants, tout en offrant une expérience agréable et inoubliable pour tous.
+
+
 ![voici ma presentation](assets/ideation_plan.drawio.png)
 
 ## Oops, j'avais pas pensé à ça, la liste
