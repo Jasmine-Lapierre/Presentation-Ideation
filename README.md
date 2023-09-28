@@ -28,5 +28,11 @@ Le sujet de ma présentation est une salle interactive conçue en collaboration 
 **Expérience sonore** : Une narration audio de l'histoire du chat est diffusée à travers plusieurs haut-parleurs répartis dans la salle. Des sons ambiants, tels que des coups de klaxon, des ronronnements et des miaulements, ajoutent à l'immersion.
 
 En résumé, ce projet de salle interactive mêle technologie, narration et expériences sensorielles pour promouvoir l'adoption de chats tout en offrant une expérience divertissante et instructive à nos visiteurs. Il vise à établir un lien unique entre les futurs adoptants et les chats en quête de foyers aimants, tout en offrant une expérience agréable et inoubliable pour tous.
+![voici ma presentation](assets/ideation_plan.drawio.png)
 
-
+## Oops, j'avais pas pensé à ça, la liste
+- pointeur laser trop petit pour être détecté???? aggrandir le pointeur ou en scotcher plusieurs ensemble.
+- quoi faire si des enfants ont des chandails bleu vert ou rouge???? peut être baisser la sensibilité des couleurs (il faudrait vraiment que ce soit vert vert là) 
+- Peut-être va voir un problème avec les coordonnées de kinect vers layer dans max (trouver une maniere de le rendre plus ou moins sans bug). Champ de vision déformé??? pas savoir...
+## Super Sources et références interessantes
+https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2021/crc235_acw254_sr2322/crc235_acw254_sr2322/index.html
