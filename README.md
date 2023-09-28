@@ -1,4 +1,4 @@
-[:) yippie](https://jasmine-lapierre.github.io/Presentation_Ideation/#/)
+[:) yippie](https://jasmine-lapierre.github.io/Presentation-Ideation/#/)
 Le sujet de ma présentation est une salle interactive conçue en collaboration avec un refuge pour chats local. Cette initiative combine la technologie interactive et une cause noble, celle de promouvoir l'adoption de chats provenant du refuge. Ce projet comporte deux aspects qui se mêlent pour créer une ambiance immersive.
 
 # Aspect 1 : Sol interactif avec jeu pour chats guidé par des lasers
